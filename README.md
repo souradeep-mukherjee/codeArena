@@ -71,7 +71,7 @@ frontend/
 ### 1) Enter the project
 
 ```bash
-cd code-execution-platform
+cd codeArena
 ```
 
 ### 2) Pull runtime images (one-time)
