@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./components/codeeditorpanel.tsx","./components/languageselector.tsx","./components/outputconsole.tsx","./components/problembankpanel.tsx","./pages/homepage.tsx","./pages/loginpage.tsx","./pages/signuppage.tsx","./pages/workspacepage.tsx","./services/api.ts"],"version":"5.9.3"}
